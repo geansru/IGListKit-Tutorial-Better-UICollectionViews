@@ -1,0 +1,20 @@
+framework module IGListKit {
+  umbrella header "IGListKit-umbrella.h"
+
+  export *
+  module * { export * }
+
+  private header "IGListAdapterInternal.h"
+  private header "IGListAdapterProxy.h"
+  private header "IGListAdapterUpdaterInternal.h"
+  private header "IGListDisplayHandler.h"
+  private header "IGListIndexPathResultInternal.h"
+  private header "IGListIndexSetResultInternal.h"
+  private header "IGListMoveIndexInternal.h"
+  private header "IGListMoveIndexPathInternal.h"
+  private header "IGListSectionControllerInternal.h"
+  private header "IGListSectionMap.h"
+  private header "IGListStackedSectionControllerInternal.h"
+  private header "IGListWorkingRangeHandler.h"
+  private header "UICollectionView+IGListBatchUpdateData.h"
+}
