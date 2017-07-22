@@ -1,1 +1,4 @@
-# IGListKit-Tutorial-Better-UICollectionViews
+# IGListKit Tutorial: Better UICollectionViews
+# Original tutorial from https://www.raywenderlich.com/147162/iglistkit-tutorial-better-uicollectionviews
+# Each app starts off the same way: a few screens, some buttons, and maybe a list or two. But as time goes on and the app grows, features start to creep their way in. Your clean data sources start to crumble under the pressure of deadlines and product managers. After a while, you’re left with the massive-view-controller ruins to maintain. Adopt IGListKit today to ease some of that burden!
+# IGListKit was created to make feature-creep and massive-view-controllers a thing of the past when working with UICollectionView. By creating lists with IGListKit, you can build apps with decoupled components, blazing-fast updates, and support for any type of data.
